@@ -8,3 +8,4 @@ Aplikasi ini bertujuan untuk mendata transaksi jual beli materai antara kantor p
 -Setelah mengklik login maka akan muncul halaman utama seperti ini . Setelah itu kita bisa memilih kolom apa yang kita perlukan/yang akan kita isi data nya.
 ![Screenshot (80)](https://user-images.githubusercontent.com/82192226/162897575-2e023b91-94e0-4a54-8ecc-b2a08c0975bb.png)
 -Sekarang kita coba klik kolom yang ada di samping kiri halaman utama yaitu kolom data materai, makan akan muncul seperti gambar di atas.
+![Screenshot (81)](https://user-images.githubusercontent.com/82192226/162897978-1f1150f1-b2df-4b6e-b64b-793e55701a6e.png)
