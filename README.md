@@ -12,3 +12,7 @@ Aplikasi ini bertujuan untuk mendata transaksi jual beli materai antara kantor p
 -Ikon tambah yang ada di atas berfungsi untuk menambah data materai apabila terdapat materai yang sudah terupdate. Ketika kita mengklik tombol tambah maka akan muncul form tersebut dan kita masukkan data tersebut.
 ![Screenshot (82)](https://user-images.githubusercontent.com/82192226/162898266-eeded126-50e1-4fc1-b48e-4d088031fa0f.png)
 -Ikon yang ada di sebelah kanan dekat ikon hapus adalah ikon edit yang berfungi untuk mengedit data materai apabila ada yang salah atau kurang valid jadi bisa mengedit data materai tersebut.
+![Screenshot (83)](https://user-images.githubusercontent.com/82192226/162898519-3f571348-ae64-404d-a153-06fa1cc7da61.png)
+-Selanjutnya kita ke kolom data pegawai maka akan muncul seperti tampilan yang ada di atas. Data pegawai tersebut berfungsi untuk menyimpan data pegawai yang ada di pos tersebut.
+
+*Untuk ikon tambah, hapus, edit, sama fungsinya dengan data materai yang di atas.
