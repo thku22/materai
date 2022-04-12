@@ -19,3 +19,5 @@ Aplikasi ini bertujuan untuk mendata transaksi jual beli materai antara kantor p
 ![Screenshot (84)](https://user-images.githubusercontent.com/82192226/162898674-3fd8e2f0-7522-48a1-b89c-af14c37644ba.png)
 -Selanjutnya kita ke kolom data transaksi maka akan muncul seperti tampilan yang ada di atas. Data transaksi tersebut berfungsi untuk menyimpan data transaksi materai yang akan akan dibeli oleh masyarakat di kantor pos tersebut.
 *Untuk ikon tambah, hapus, edit, sama fungsinya dengan data materai dan pegawai yang di atas.
+![Screenshot (85)](https://user-images.githubusercontent.com/82192226/162898870-c0ea58b3-9fcd-4060-9ae2-51fcdecb34d2.png)
+Tapi di data transaksi ini terdapat icon print yang pungsinya sebagai hardcopy dari data transaksi tersebut.
