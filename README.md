@@ -10,3 +10,5 @@ Aplikasi ini bertujuan untuk mendata transaksi jual beli materai antara kantor p
 -Sekarang kita coba klik kolom yang ada di samping kiri halaman utama yaitu kolom data materai, makan akan muncul seperti gambar di atas.
 ![Screenshot (81)](https://user-images.githubusercontent.com/82192226/162897978-1f1150f1-b2df-4b6e-b64b-793e55701a6e.png)
 -Ikon tambah yang ada di atas berfungsi untuk menambah data materai apabila terdapat materai yang sudah terupdate. Ketika kita mengklik tombol tambah maka akan muncul form tersebut dan kita masukkan data tersebut.
+![Screenshot (82)](https://user-images.githubusercontent.com/82192226/162898266-eeded126-50e1-4fc1-b48e-4d088031fa0f.png)
+-Ikon yang ada di sebelah kanan dekat ikon hapus adalah ikon edit yang berfungi untuk mengedit data materai apabila ada yang salah atau kurang valid jadi bisa mengedit data materai tersebut.
